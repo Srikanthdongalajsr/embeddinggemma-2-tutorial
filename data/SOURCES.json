@@ -1,0 +1,17 @@
+{
+  "audio": "ESC-50 (CC BY-NC 3.0), github.com/karolpiczak/ESC-50",
+  "images": {
+    "labrador": "https://commons.wikimedia.org/wiki/File:YellowLabradorLooking_new.jpg",
+    "cat": "https://commons.wikimedia.org/wiki/File:Cat03.jpg",
+    "sunset": "https://commons.wikimedia.org/wiki/File:Sunset_2007-1.jpg",
+    "golden_gate": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+    "apple": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+    "pizza": "https://commons.wikimedia.org/wiki/File:Pizza-3007395.jpg",
+    "everest": "https://commons.wikimedia.org/wiki/File:Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+    "rooster": "https://commons.wikimedia.org/wiki/File:Rooster_portrait2.jpg",
+    "horses": "https://commons.wikimedia.org/wiki/File:Biandintz_eta_zaldiak_-_modified2.jpg",
+    "big_ben": "https://commons.wikimedia.org/wiki/File:Big_Ben_2007-1.jpg",
+    "baby": "https://commons.wikimedia.org/wiki/File:Baby_Face.JPG",
+    "beach": "https://commons.wikimedia.org/wiki/File:RK_Beach_Visakhapatnam_Nov_2012_-_02.JPG"
+  }
+}
