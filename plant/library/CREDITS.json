@@ -1,0 +1,341 @@
+{
+ "images/centrifugal_pump_belt_drive.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWarman_centrifugal_pump.jpg",
+  "author": "Bernard S. Janse",
+  "license": "CC BY 2.5",
+  "title": "Centrifugal pump on a belt drive"
+ },
+ "images/inline_pumps_motors.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ACentrifugal_Pump.jpg",
+  "author": "Saud",
+  "license": "CC BY-SA 4.0",
+  "title": "Two inline pumps in a plant room"
+ },
+ "images/bearing_shell_overheat.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ACologne_Germany_Overheating-marks-at-a-bearing-shell-01.jpg",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "title": "Bearing shell with overheating marks"
+ },
+ "images/weld_crack_stress_corrosion.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AStress-Corrosion-Cracking-caused-by-weld-stress-01.jpg",
+  "author": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "title": "Cracks next to a weld"
+ },
+ "images/welder_arc_helmet.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AA_job_weld_done_%288043734%29.jpg",
+  "author": "U.S. Air Force photo by Airman 1st Class Seleena Muhammad-Ali",
+  "license": "Public domain",
+  "title": "Welder at work"
+ },
+ "images/pipe_stick_welding.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ASMAW.jpg",
+  "author": "Mgschuler",
+  "license": "CC BY 3.0",
+  "title": "Stick welding a pipe"
+ },
+ "images/roller_conveyor_line.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AConveyor_system_in_a_factory.jpg",
+  "author": "falco",
+  "license": "CC0",
+  "title": "Conveyor lines in a factory"
+ },
+ "images/forklifts_warehouse.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AForklift.jpeg",
+  "author": "Mdornseif",
+  "license": "CC BY-SA 4.0",
+  "title": "Forklifts by the racks"
+ },
+ "images/forklift_moving_pallet.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWorkers_drive_Forklifts_laden_with_USAID_goods_inside_a_large_warehouse_-_20110826-FS-LSC-0138_-_Flickr_-_USDAgov.jpg",
+  "author": "U.S. Department of Agriculture",
+  "license": "Public domain",
+  "title": "Forklift moving a pallet stack"
+ },
+ "images/rusty_gate_valve.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ARusty_Valve.jpg",
+  "author": "Pete from Liverpool, UK",
+  "license": "CC BY 2.0",
+  "title": "Rusted gate valve"
+ },
+ "images/plant_room_rusty_valves.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ARusty_pipes.jpg",
+  "author": "ProjectManhattan",
+  "license": "CC BY-SA 3.0",
+  "title": "Rusted valves and flanges"
+ },
+ "images/pipe_surface_rust.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ARusty_pipes_%287463495770%29.jpg",
+  "author": "Sergiu Dumitriu",
+  "license": "CC BY-SA 2.0",
+  "title": "Flaking rust on pipes"
+ },
+ "images/screw_compressor_motor.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AScrew_compressor_1.jpg",
+  "author": "Endora6398",
+  "license": "CC BY-SA 4.0",
+  "title": "Screw compressor and motor"
+ },
+ "images/piston_air_compressor.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AAir_compressor_in_engine_room.JPG",
+  "author": "Work With Sounds",
+  "license": "CC BY-SA 4.0",
+  "title": "Piston air compressor"
+ },
+ "images/valve_pressure_gauge.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AClose-up_view_of_a_red_valve_on_a_metallic_pipe_system_with_a_pressure_gauge_in_an_industrial_setting.jpg",
+  "author": "Shixart1985",
+  "license": "CC BY 2.0",
+  "title": "Valve and pressure gauge"
+ },
+ "images/lockout_padlocks_isolators.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3APower_Lockout_%2813421721974%29.jpg",
+  "author": "darkday from Brisbane, Australia",
+  "license": "CC BY 2.0",
+  "title": "Lockout padlocks on isolators"
+ },
+ "images/breaker_locked_tagged.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AGlavno_stikalo%2C_zavarovano_pred_ne%C5%BEelenim_vklopom.JPG",
+  "author": "Svetina D at Slovenian Wikipedia",
+  "license": "Public domain",
+  "title": "Breaker locked and tagged"
+ },
+ "images/arc_flash_ppe.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File%3APueblo_Chemical_Agent-Destruction_Pilot_Plant_Protection_Gear_%285571650875%29.jpg",
+  "author": "PEO ACWA",
+  "license": "CC BY 2.0",
+  "title": "Putting on arc flash gear"
+ },
+ "audio/pump_submersible_running.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_Submersiblepump.ogg",
+  "author": "Work With Sounds / Technical Museum of Slovenia",
+  "license": "CC BY 4.0",
+  "title": "Submersible pump running"
+ },
+ "audio/air_compressor_running.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_Aircompressor.ogg",
+  "author": "Work With Sounds / Torsten Nilsson",
+  "license": "CC BY 4.0",
+  "title": "Air compressor running"
+ },
+ "audio/steam_release_hiss.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_SteamlocomotiveS06-018Steamrelease.ogg",
+  "author": "Work With Sounds / Technical Museum of Slovenia",
+  "license": "CC BY 4.0",
+  "title": "Steam release"
+ },
+ "audio/air_leak_hiss.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AAir_duster.ogg",
+  "author": "stephan",
+  "license": "Public domain",
+  "title": "Compressed air hiss"
+ },
+ "audio/welding_mig.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_Welding.ogg",
+  "author": "Work With Sounds / Technical Museum of Slovenia",
+  "license": "CC BY 4.0",
+  "title": "MIG welding"
+ },
+ "audio/conveyor_belt.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_Conveyorbelt.ogg",
+  "author": "Work With Sounds / Konrad Gutkowski",
+  "license": "CC BY 4.0",
+  "title": "Belt conveyor running"
+ },
+ "audio/forklift_truck.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_Forklifttruck.ogg",
+  "author": "Work With Sounds / Werstas",
+  "license": "CC BY 4.0",
+  "title": "Forklift at work"
+ },
+ "audio/bench_grinder.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AWWS_DoubleEndedGrinder.ogg",
+  "author": "Work With Sounds / Werstas",
+  "license": "CC BY 4.0",
+  "title": "Bench grinder"
+ },
+ "audio/niosh_arc_flash_briefing.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AArc_Flash_Awareness.webm",
+  "author": "National Institute for Occupational Safety and Health, U.S. Centers for Disease Control and Prevention",
+  "license": "Public domain",
+  "note": "audio clip 73-186 s",
+  "title": "Arc flash briefing, NIOSH"
+ },
+ "audio/niosh_lockout_briefing.mp3": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AArc_Flash_Awareness.webm",
+  "author": "National Institute for Occupational Safety and Health, U.S. Centers for Disease Control and Prevention",
+  "license": "Public domain",
+  "note": "audio clip 1457-1521 s",
+  "title": "De-energize and lock out, NIOSH"
+ },
+ "audio/pump_normal_mimii.mp3": {
+  "source": "https://zenodo.org/records/3384388",
+  "license": "CC BY-SA 4.0",
+  "author": "Purohit, Tanabe, Ichige, Endo, Nikaido, Suefusa, Kawaguchi (Hitachi), MIMII dataset",
+  "note": "6_dB_pump.zip: pump/id_00/normal/00000000.wav, channel 0",
+  "title": "Factory pump, healthy"
+ },
+ "audio/pump_faulty_mimii.mp3": {
+  "source": "https://zenodo.org/records/3384388",
+  "license": "CC BY-SA 4.0",
+  "author": "Purohit, Tanabe, Ichige, Endo, Nikaido, Suefusa, Kawaguchi (Hitachi), MIMII dataset",
+  "note": "6_dB_pump.zip: pump/id_00/abnormal/00000000.wav, channel 0",
+  "title": "Factory pump, faulty"
+ },
+ "video/hydraulic_motor_pump_unit.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AHydraulic_aggregate_for_the_calender.webm",
+  "author": "barbara.grilc; Sound: Dušan Oblak, Photo: Irena Marušič, Video: Barbara Rezar Grilc",
+  "license": "CC BY 3.0",
+  "title": "Hydraulic pump unit running"
+ },
+ "video/automated_weld_pressure_vessel.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AOrion_Pressure_Vessel_V_Final_Weld_%2820250801_Orion_ArtV-FinalWeld_VoY%29.webm",
+  "author": "NASA Michoud Assembly Facility",
+  "license": "Public domain",
+  "title": "Automated weld on a pressure vessel, NASA"
+ },
+ "video/butt_welding_machine.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AAutomatic_butt-welding_machine.webm",
+  "author": "Work With Sounds",
+  "license": "CC BY-SA 3.0",
+  "title": "Butt welding machine"
+ },
+ "video/belt_conveyor_coal.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AThe_Velenje_Coal_Mine%2C_Coal_transport_from_longwall_face_with_belt_conveyor.webm",
+  "author": "Sounds of Changes",
+  "license": "CC BY 3.0",
+  "title": "Belt conveyor in a mine"
+ },
+ "video/forklift_training.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AJFC-UA_Service_Members_Train_NGOs%2C_Liberians_on_Forklift_150110-A-YW926-001.webm",
+  "author": "Sgt. David Greeson",
+  "license": "Public domain",
+  "title": "Forklift training"
+ },
+ "video/cnc_lathe_turning.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ADenford_Novaturn_CNC_Lathe_%28video%29_-_Nottingham_Hackspace.webm",
+  "author": "Nottingham  Hackspace from Nottingham, GBR",
+  "license": "CC BY-SA 2.0",
+  "title": "CNC lathe turning a part"
+ },
+ "video/air_compressor_blowing.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3ACleaning_a_chainsaw_with_old_air_compressor.webm",
+  "author": "Sound, photo &amp; video: Antti Makkonen",
+  "license": "CC BY 3.0",
+  "title": "Air compressor in use"
+ },
+ "video/compressor_gas_leak_camera.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AUltrasound_Leak_CH-methane-VOC_leak_detection%2C_reciprocating_compressor.webm",
+  "author": "hu Spectronics",
+  "license": "CC BY 3.0",
+  "title": "Leak found on a compressor"
+ },
+ "video/electrical_arc_flash.mp4": {
+  "source": "https://commons.wikimedia.org/wiki/File%3AElectrical_arc_flash.webm",
+  "author": "vilem vilim",
+  "license": "CC BY 3.0",
+  "title": "Electrical arc flash"
+ },
+ "docs/pump_troubleshooting_ufc.pdf": {
+  "source": "https://www.wbdg.org/FFC/DOD/UFC/ARCHIVES/ufc_3_230_02_2001.pdf",
+  "author": "US Department of Defense, UFC 3-230-02 (2001)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [100, 101, 104, 105]",
+  "title": "Centrifugal pump troubleshooting, DoD"
+ },
+ "docs/centrifugal_pump_manual_1946.pdf": {
+  "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/TM_5-2044_Pump%2C_Centrifugal%2C_Gasoline_Engine_Driven%2C_Base_Mounted%2C_2_Inch_Discharge%2C_166_GPM_At_25_Foot_Head%2C_Novo%2C_Model_KH_2%2C_With_Novo_Model_CA_33_Engine_1946_%28IA_TM5-2044%29.pdf",
+  "author": "US War Department, TM 5-2044 (1946)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [26, 34, 35, 36]",
+  "title": "Centrifugal pump manual, US Army (1946)"
+ },
+ "docs/weld_defects_army_tc9_237.pdf": {
+  "source": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc9_237.pdf",
+  "author": "US Department of the Army, TC 9-237 (1993)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [641, 642, 643, 644]",
+  "title": "Weld defects and causes, US Army"
+ },
+ "docs/welding_fumes_osha.pdf": {
+  "source": "https://www.osha.gov/sites/default/files/publications/OSHA_FS-3647_Welding.pdf",
+  "author": "OSHA, FS-3647 (2013)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [2]",
+  "title": "Welding fumes, OSHA"
+ },
+ "docs/conveyor_guarding_osha.pdf": {
+  "source": "https://www.osha.gov/sites/default/files/publications/OSHA3170.pdf",
+  "author": "OSHA 3170 (2007)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [29, 30, 31]",
+  "title": "Conveyor hazards and guards, OSHA"
+ },
+ "docs/forklift_safety_osha.pdf": {
+  "source": "https://www.osha.gov/sites/default/files/publications/OSHA3949.pdf",
+  "author": "OSHA QuickCard 3949 (2019)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [1]",
+  "title": "Forklift safety, OSHA"
+ },
+ "docs/pipe_corrosion_rupture_csb.pdf": {
+  "source": "https://www.csb.gov/assets/1/20/chevron_final_investigation_report_2015-01-28.pdf",
+  "author": "US Chemical Safety Board, report 2012-03-I-CA (2015)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [21, 32, 45, 50]",
+  "title": "Corroded pipe rupture, Chevron refinery (CSB)"
+ },
+ "docs/corrosion_protection_army.pdf": {
+  "source": "https://www.wbdg.org/FFC/ARMYCOE/COETM/tm_5_692_1.pdf",
+  "author": "US Department of the Army, TM 5-692-1 (2005)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [220, 221, 223, 224]",
+  "title": "Cathodic protection troubleshooting, US Army"
+ },
+ "docs/compressed_air_maintenance_army.pdf": {
+  "source": "https://www.wbdg.org/FFC/ARMYCOE/COETM/tm_5_692_1.pdf",
+  "author": "US Department of the Army, TM 5-692-1 (2005)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [128, 130, 131, 132, 133]",
+  "title": "Compressed air maintenance, US Army"
+ },
+ "docs/lockout_tagout_osha.pdf": {
+  "source": "https://www.osha.gov/sites/default/files/publications/OSHA3120.pdf",
+  "author": "OSHA 3120 (2002)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [7, 13, 14, 15]",
+  "title": "Lockout/tagout steps, OSHA"
+ },
+ "docs/arc_flash_osha.pdf": {
+  "source": "https://www.osha.gov/sites/default/files/publications/OSHA4472.pdf",
+  "author": "OSHA 4472 (2024)",
+  "license": "Public domain (US federal work)",
+  "note": "PDF pages [5, 8, 10, 12]",
+  "title": "Arc flash hazards, OSHA"
+ },
+ "audio/voice_note_pump3_bearing.mp3": {
+  "title": "Technician voice note: pump 3 (staged, Telugu)",
+  "author": "Srikanth Dongala",
+  "license": "Own recording, staged for the demo",
+  "source": "plant/self-audio"
+ },
+ "audio/voice_note_line2_air_leak.mp3": {
+  "title": "Technician voice note: line 2 air leak (staged)",
+  "author": "Srikanth Dongala",
+  "license": "Own recording, staged for the demo",
+  "source": "plant/self-audio"
+ },
+ "audio/voice_note_frame_weld_cracks.mp3": {
+  "title": "Technician voice note: frame welds (staged, Telugu)",
+  "author": "Srikanth Dongala",
+  "license": "Own recording, staged for the demo",
+  "source": "plant/self-audio"
+ },
+ "audio/voice_note_conveyor2_jam.mp3": {
+  "title": "Technician voice note: conveyor 2 jam (staged)",
+  "author": "Srikanth Dongala",
+  "license": "Own recording, staged for the demo",
+  "source": "plant/self-audio"
+ }
+}

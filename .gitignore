@@ -1,0 +1,41 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Download and thumbnail caches
+.cache/
+plant/.cache/
+
+# Media libraries: downloaded by app/get_library.py and app/get_plant.py (credits are kept)
+library/*
+!library/CREDITS.json
+!library/CREDITS.md
+plant/library/*
+!plant/library/CREDITS.json
+
+# Search indexes: rebuilt by app/indexer.py and the notebook
+*.npy
+library_index.json
+index_meta.json
+
+# Personal recordings and scratch audio
+plant/self-audio/
+plant/VOICE-NOTES-to-record.md
+piece_*.wav
+
+# Blog draft, blog images and notebook generators (not needed to run the demo)
+embeddinggemma2-blog.md
+/images/
+build_notebook.py
+app/build_walkthrough_nb.py
+plant/TOP-QUESTIONS.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
